@@ -69,11 +69,21 @@ The AdventureWorks Power BI dashboard is designed with an intuitive user interfa
 
 - **Overview Section:** Provides a high-level overview of total sales, average order value, and other essential KPIs.
 
+https://github.com/arcw76183450/powerbi-dashboard/assets/41956301/6fe0993b-0a66-4308-a702-e5172d82a21e
+
 - **Region-wise Analysis:** Visualizes sales performance across different regions through interactive maps and charts.
+
+https://github.com/arcw76183450/powerbi-dashboard/assets/41956301/0d82a541-ab6d-4892-b799-48bb4add23c2
 
 - **Customer Segmentation:** Analyzes customers based on their purchasing behavior, loyalty, and other metrics.
 
+https://github.com/arcw76183450/powerbi-dashboard/assets/41956301/267227fc-69bb-436b-b6ba-946d2259971f
+
 - **Product Performance:** Displays the performance of various products in terms of revenue, quantity sold, and other parameters.
+
+https://github.com/arcw76183450/powerbi-dashboard/assets/41956301/1760fd11-05a9-4a4f-befb-7b42d2df589b
+
+
 
 ### Navigating the Dashboard
 
